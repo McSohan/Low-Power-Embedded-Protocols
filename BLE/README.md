@@ -1,1 +1,3 @@
-# UCSD CSE122/222C/WES Lab BLE starter code
+# BLE
+Implemented on nrf52840 DK and dongle.
+
