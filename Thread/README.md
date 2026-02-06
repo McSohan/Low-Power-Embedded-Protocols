@@ -1,4 +1,4 @@
-Lab 3
+Thread
 ====
 
-Starter code for 15.4 and Thread Lab.
+Implemented on nrf52840 DK and dongle.
